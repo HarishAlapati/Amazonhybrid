@@ -20,3 +20,7 @@
 2021-09-08 17:46:50,429 [main] INFO Amazon - Search whatever you need
 2021-09-08 17:46:52,858 [main] INFO Amazon - You clicked on search button
 2021-09-08 17:46:53,537 [main] INFO Amazon - Browser closed
+2021-09-08 20:26:46,087 [main] INFO Amazon - Driver called 1
+2021-09-08 20:26:51,245 [main] INFO Amazon - Search whatever you need
+2021-09-08 20:26:54,554 [main] INFO Amazon - You clicked on search button
+2021-09-08 20:26:55,275 [main] INFO Amazon - Browser closed
