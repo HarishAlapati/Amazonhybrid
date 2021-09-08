@@ -1,0 +1,22 @@
+2021-09-01 10:17:09,653 [main] INFO Amazon - Driver called 1
+2021-09-01 10:17:32,388 [main] INFO Amazon - Search whatever you need
+2021-09-01 10:17:36,843 [main] INFO Amazon - You clicked on search button
+2021-09-01 10:17:36,945 [main] INFO Amazon - Checking title matching
+2021-09-01 10:17:41,281 [main] INFO Amazon - Browser closed
+2021-09-01 16:00:31,229 [main] INFO Amazon - Driver called 1
+2021-09-01 16:01:09,756 [main] INFO Amazon - Search whatever you need
+2021-09-01 16:01:20,777 [main] INFO Amazon - You clicked on search button
+2021-09-01 16:01:20,834 [main] INFO Amazon - Checking title matching
+2021-09-01 16:01:25,076 [main] INFO Amazon - Browser closed
+2021-09-02 16:30:06,112 [main] INFO Amazon - Driver called 1
+2021-09-02 16:30:29,949 [main] INFO Amazon - Search whatever you need
+2021-09-02 16:30:36,924 [main] INFO Amazon - You clicked on search button
+2021-09-02 16:30:37,322 [main] INFO Amazon - Browser closed
+2021-09-02 16:32:26,935 [main] INFO Amazon - Driver called 1
+2021-09-02 16:32:48,563 [main] INFO Amazon - Search whatever you need
+2021-09-02 16:32:54,682 [main] INFO Amazon - You clicked on search button
+2021-09-02 16:32:58,887 [main] INFO Amazon - Browser closed
+2021-09-08 17:46:46,101 [main] INFO Amazon - Driver called 1
+2021-09-08 17:46:50,429 [main] INFO Amazon - Search whatever you need
+2021-09-08 17:46:52,858 [main] INFO Amazon - You clicked on search button
+2021-09-08 17:46:53,537 [main] INFO Amazon - Browser closed
