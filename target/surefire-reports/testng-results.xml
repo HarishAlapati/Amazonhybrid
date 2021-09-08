@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-08T20:25:47 IST" name="Suite" finished-at="2021-09-08T20:26:55 IST" duration-ms="67496">
+  <suite started-at="2021-09-08T20:34:39 IST" name="Suite" finished-at="2021-09-08T20:35:53 IST" duration-ms="73388">
     <groups>
     </groups>
-    <test started-at="2021-09-08T20:25:47 IST" name="Test" finished-at="2021-09-08T20:26:55 IST" duration-ms="67496">
+    <test started-at="2021-09-08T20:34:39 IST" name="Test" finished-at="2021-09-08T20:35:53 IST" duration-ms="73388">
       <class name="com.amazon.runner.DataDrivenSearchAmazon">
-        <test-method signature="SearchAmazon(java.lang.String)[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:25:48 IST" name="SearchAmazon" data-provider="datas" finished-at="2021-09-08T20:25:59 IST" duration-ms="11119" status="PASS">
+        <test-method signature="SearchAmazon(java.lang.String)[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:34:40 IST" name="SearchAmazon" data-provider="datas" finished-at="2021-09-08T20:34:52 IST" duration-ms="12201" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchAmazon -->
-        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:25:59 IST" name="closeDriverM" finished-at="2021-09-08T20:26:03 IST" duration-ms="4267" status="PASS">
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:34:52 IST" name="closeDriverM" finished-at="2021-09-08T20:34:56 IST" duration-ms="4206" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriverM -->
-        <test-method signature="SearchAmazon(java.lang.String)[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:26:03 IST" name="SearchAmazon" data-provider="datas" finished-at="2021-09-08T20:26:15 IST" duration-ms="11569" status="PASS">
+        <test-method signature="SearchAmazon(java.lang.String)[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:34:56 IST" name="SearchAmazon" data-provider="datas" finished-at="2021-09-08T20:35:13 IST" duration-ms="16445" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,11 +33,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchAmazon -->
-        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:26:15 IST" name="closeDriverM" finished-at="2021-09-08T20:26:19 IST" duration-ms="4245" status="PASS">
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:35:13 IST" name="closeDriverM" finished-at="2021-09-08T20:35:13 IST" duration-ms="277" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriverM -->
-        <test-method signature="SearchAmazon(java.lang.String)[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:26:19 IST" name="SearchAmazon" data-provider="datas" finished-at="2021-09-08T20:26:29 IST" duration-ms="9512" status="PASS">
+        <test-method signature="SearchAmazon(java.lang.String)[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:35:13 IST" name="SearchAmazon" data-provider="datas" finished-at="2021-09-08T20:35:23 IST" duration-ms="10360" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -48,11 +48,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchAmazon -->
-        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:26:29 IST" name="closeDriverM" finished-at="2021-09-08T20:26:29 IST" duration-ms="190" status="PASS">
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:35:23 IST" name="closeDriverM" finished-at="2021-09-08T20:35:28 IST" duration-ms="4202" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriverM -->
-        <test-method signature="SearchAmazon(java.lang.String)[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:26:29 IST" name="SearchAmazon" data-provider="datas" finished-at="2021-09-08T20:26:40 IST" duration-ms="10667" status="PASS">
+        <test-method signature="SearchAmazon(java.lang.String)[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:35:28 IST" name="SearchAmazon" data-provider="datas" finished-at="2021-09-08T20:35:39 IST" duration-ms="10927" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -63,23 +63,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchAmazon -->
-        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:26:40 IST" name="closeDriverM" finished-at="2021-09-08T20:26:44 IST" duration-ms="4328" status="PASS">
+        <test-method is-config="true" signature="closeDriverM()[pri:0, instance:com.amazon.runner.DataDrivenSearchAmazon@7a419da4]" started-at="2021-09-08T20:35:39 IST" name="closeDriverM" finished-at="2021-09-08T20:35:39 IST" duration-ms="305" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriverM -->
       </class> <!-- com.amazon.runner.DataDrivenSearchAmazon -->
       <class name="com.amazon.runner.TestRunner">
-        <test-method signature="SearchAmazon()[pri:0, instance:com.amazon.runner.TestRunner@614ca7df]" started-at="2021-09-08T20:26:44 IST" name="SearchAmazon" finished-at="2021-09-08T20:26:54 IST" duration-ms="10177" status="PASS">
+        <test-method signature="SearchAmazon()[pri:0, instance:com.amazon.runner.TestRunner@614ca7df]" started-at="2021-09-08T20:35:39 IST" name="SearchAmazon" finished-at="2021-09-08T20:35:48 IST" duration-ms="9232" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchAmazon -->
-        <test-method signature="checkTitle()[pri:0, instance:com.amazon.runner.TestRunner@614ca7df]" started-at="2021-09-08T20:26:54 IST" name="checkTitle" finished-at="2021-09-08T20:26:54 IST" duration-ms="88" status="FAIL">
+        <test-method signature="checkTitle()[pri:0, instance:com.amazon.runner.TestRunner@614ca7df]" started-at="2021-09-08T20:35:48 IST" name="checkTitle" finished-at="2021-09-08T20:35:48 IST" duration-ms="134" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[expected [Amazon.in : iphone11] but found [Amazon.in : iphone xr]]]>
+              <![CDATA[expected [Amazon.in : iphone11] but found [Amazon.in : iphone 11]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [Amazon.in : iphone11] but found [Amazon.in : iphone xr]
+              <![CDATA[java.lang.AssertionError: expected [Amazon.in : iphone11] but found [Amazon.in : iphone 11]
 at org.testng.Assert.fail(Assert.java:99)
 at org.testng.Assert.failNotEquals(Assert.java:1037)
 at org.testng.Assert.assertEqualsImpl(Assert.java:140)
@@ -125,7 +125,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkTitle -->
-        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.amazon.runner.TestRunner@614ca7df]" started-at="2021-09-08T20:26:54 IST" name="closeDriver" finished-at="2021-09-08T20:26:55 IST" duration-ms="320" status="PASS">
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.amazon.runner.TestRunner@614ca7df]" started-at="2021-09-08T20:35:48 IST" name="closeDriver" finished-at="2021-09-08T20:35:53 IST" duration-ms="4145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->

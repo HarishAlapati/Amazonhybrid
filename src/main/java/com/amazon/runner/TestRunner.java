@@ -32,7 +32,7 @@ public  void SearchAmazon() throws IOException
 @Test
 public  void checkTitle()
 {
-	Assert.assertEquals(driver.getTitle(),"Amazon.in : iphone11");
+	Assert.assertEquals(driver.getTitle(),"Amazon.in : iphone 11");
 	logger.info("Checking title matching");
 }
 
